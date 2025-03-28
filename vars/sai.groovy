@@ -1,3 +1,3 @@
-def call () {
-  sh 'ls -la'
+def call() {
+    sh 'ls -la'
 }
