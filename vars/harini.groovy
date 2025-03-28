@@ -1,6 +1,6 @@
 def call() {
   sh 'mkdir harish'
-  sh 'cd indhu'
+  sh 'cd harish'
   sh 'touch gone'
   
 }
