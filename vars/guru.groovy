@@ -1,7 +1,7 @@
 def call () {
 echo 'hi this is indu' 
-  sh 'mkdir sake'
-  sh 'cd sake'
+  sh 'mkdir sakes'
+  dir 'sakes'
   sh 'touch book'
 }
   
